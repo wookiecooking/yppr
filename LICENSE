@@ -1,26 +1,3 @@
-# Yppr
-
-# [![NPM version][npm-image]][npm-url]
-
-##### install
-
-```
-npm install -g yppr
-```
-
-
-##### environment variables
-
-```
-YPPR_TEMPLATES = /path/to/templates; IE: $HOME/.yppr
-```
-[npm-image]: https://badge.fury.io/js/yppr.svg
-[npm-url]: https://npmjs.org/package/yppr
-
-
-##### License
-
-```
 The MIT License (MIT)
 
 Copyright (c) 2016 Austin Turnage
@@ -41,4 +18,3 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```

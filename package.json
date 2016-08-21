@@ -15,7 +15,7 @@
     "yppr": "lib/index.js"
   },
   "author": "wookiecooking",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "lodash.template": "^4.4.0",
     "minimist": "^1.2.0",
