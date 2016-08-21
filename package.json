@@ -1,0 +1,24 @@
+{
+  "name": "yppr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository":"https://github.com/wookiecooking/yppr.git",
+  "keywords": [
+    "scaffolding",
+    "template",
+    "templating"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "yppr": "lib/index.js"
+  },
+  "author": "wookiecooking",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.template": "^4.4.0",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1"
+  }
+}
